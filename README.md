@@ -1,3 +1,3 @@
 # tonypark777777.github.io
   blog
-  - localhost://8090
+  - http://192.168.103.103:8090/
